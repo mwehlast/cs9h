@@ -1,0 +1,35 @@
+-------------------
+For values: 
+Cat Radius (m): 1.0
+Cat Angle: 37.0
+Mouse Angle: 396.0
+Tom ate Jerry at time: 0.03 
+
+-------------------
+For values: 
+Cat Radius (m): 3.2
+Cat Angle: 0.0
+Mouse Angle: -57.0
+Tom ate Jerry at time: 13.43 
+
+-------------------
+For values: 
+Cat Radius (m): 8.1
+Cat Angle: 0.0
+Mouse Angle: 45.0
+Tom got bored and left at time: 30.0 (based on user scale input)
+
+-------------------
+For values: 
+Cat Radius (m): 8.1
+Cat Angle: 150.0
+Mouse Angle: 240.0
+Tom ate Jerry at time: 21.54 
+
+-------------------
+For values: 
+Cat Radius (m): 4.0
+Cat Angle: 0.0
+Mouse Angle: -57.0
+Tom got bored and left at time: 30.0 (based on user scale input)
+
